@@ -1,4 +1,4 @@
-![pexels-googledeepmind-17485657](https://github.com/user-attachments/assets/650a4b6f-3b34-47ae-a31b-901b137a898f)
+
 
 
 
@@ -6,7 +6,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm SILVIA</h1>
-<h3 align="center">a curious code learner exploring the world of possibilities</h3>
+<h3 align="center">A curious code learner exploring the world of possibilities. Based in France. </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silvia-popescu" alt="silvia-popescu" /></a> </p>
 
