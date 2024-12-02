@@ -1,3 +1,8 @@
+![pexels-googledeepmind-17485657](https://github.com/user-attachments/assets/650a4b6f-3b34-47ae-a31b-901b137a898f)
+
+
+
+
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm SILVIA</h1>
