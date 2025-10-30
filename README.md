@@ -6,7 +6,7 @@
 ## Hi there 👋
 
 <h1 align="center"> 👋 I'm SILVIA</h1>
-<h3 align="center">A curious code learner exploring the world of possibilities. </h3>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silvia-popescu" alt="silvia-popescu" /></a> </p>
 
